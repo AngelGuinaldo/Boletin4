@@ -8,9 +8,9 @@ public class Coche {
         velocidade = 0;
     }
 
-    public int setVelocidade() {
-        return velocidade;
-    }
+//    public int setVelocidade() {
+//    return velocidade;
+//  }
 
     public int getVelocidade() {
         return velocidade;
